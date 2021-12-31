@@ -1,7 +1,7 @@
-                        Hi 👋
-            Always Learning, looking to collaborate.
-                          > JavaScript
-
+                        Hi 👋 I am Venancio,
+                        
+                        I am bulding my portfolio based on JavaScript.
+                        
 @v6ovportillo
 
 <!---
