@@ -2,6 +2,11 @@
                         
                         I am bulding my portfolio based on JavaScript.
                         
+                        Currently working on:
+                        -React js
+                        -Redux
+                        -Node js
+                        
 @v6ovportillo
 
 <!---
