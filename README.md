@@ -1,11 +1,4 @@
-                        Hi 👋 I am Venancio,
-                        
-                        I am bulding my portfolio based on JavaScript.
-                        
-                        Currently working on:
-                        -React js
-                        -Redux
-                        -Node js
+                        Hi 👋 I am Venancio
                         
 @v6ovportillo
 
